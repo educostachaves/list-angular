@@ -1,0 +1,43 @@
+{
+	"liveclass":[
+		{ 
+			"id" : "001",
+			"type" : "012",
+			"name": "Cálculo Estequiométrico",
+			"description": "Explicação de Cálculo Estequiométrico",
+			"chatchannel": "http://www.test.com.br",
+			"livestreamchannel": "http://www.test.com.br",
+			"homeworkurl": "http://www.test.com.br",
+			"teacher": "Rafael França",
+			"start": {
+				"day" : "31",
+				"month" : "05",
+				"year" : "2015",
+				"hour" : "08:50"
+			},
+			"duration": "01:00",
+			"discipline": "Química",
+			"extracontenturl": "http://www.test.com.br",
+			"status": "active",
+			"istrial": true,
+			"isfree": true
+		}
+	],
+	"tutoring":[
+		{
+			"id": "001",
+			"name": "Ímpulso e Quantidade de Movimento",
+			"chatchannel": "http://www.test.com.br",
+			"livestreamchannel": "http://www.test.com.br",
+			"homeworkurl": "http://www.test.com.br",
+			"monitor": "Victor Logullo",
+			"start": {
+				"day" : "31",
+				"month" : "05",
+				"year" : "2015",
+				"hour" : "08:50"
+			},
+			"duration":	"01:00"
+		}
+	]
+}
