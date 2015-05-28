@@ -1,5 +1,14 @@
 {
-  "name": "list-angular",
+  "name": "List Angular",
+  "version": "0.0.1",
+  "description": "Tests with API Restful in angular",
+  "author": "Eduardo Chaves",
+  "repository": { 
+    "type": "svn",
+    "url": "https://github.com/educostachaves/list-angular.git"
+  },
+  "readme":"README.md",
+  "license": "BSD",
   "devDependencies": {
     "apache-server-configs": "^2.7.1",
     "grunt": "^0.4.5",
@@ -28,6 +37,6 @@
     "time-grunt": "^0.4.0"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=0.1"
   }
 }
